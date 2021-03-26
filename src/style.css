@@ -1,5 +1,5 @@
 :root {
-  --accent-color: #6c63ff;
+  --highlight-color: #6c63ff;
   --branding-color: #f9f7fe;
 }
 body {
@@ -32,9 +32,18 @@ h6 {
   margin: 0;
 }
 
-.hero h2{
-    font-weight: normal;
-    font-size: 24px;
-line-height: 2;
-margin-bottom: 3rem;
+.hero h2 {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 2;
+  margin-bottom: 3rem;
+}
+
+.btn-branding {
+  background: #6c63ff;
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
 }
