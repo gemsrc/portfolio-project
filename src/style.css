@@ -64,3 +64,21 @@ h6 {
 h2 {
   font-size: 64px;
 }
+.about-section {
+  padding: 160px 20px;
+}
+
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.about-section h2 {
+  font-size: 18px;
+}
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+.about-section-content {
+  margin: 30px;
+}
